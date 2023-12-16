@@ -1,0 +1,7 @@
+F:\MPHASIS DOCUMENTS\.NetProject\Phase1Section3.4\Phase1Section3.6\Phase1Section3.6\bin\Debug\Phase1Section3.6.exe.config
+F:\MPHASIS DOCUMENTS\.NetProject\Phase1Section3.4\Phase1Section3.6\Phase1Section3.6\bin\Debug\Phase1Section3.6.exe
+F:\MPHASIS DOCUMENTS\.NetProject\Phase1Section3.4\Phase1Section3.6\Phase1Section3.6\bin\Debug\Phase1Section3.6.pdb
+F:\MPHASIS DOCUMENTS\.NetProject\Phase1Section3.4\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.csproj.AssemblyReference.cache
+F:\MPHASIS DOCUMENTS\.NetProject\Phase1Section3.4\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.csproj.CoreCompileInputs.cache
+F:\MPHASIS DOCUMENTS\.NetProject\Phase1Section3.4\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.exe
+F:\MPHASIS DOCUMENTS\.NetProject\Phase1Section3.4\Phase1Section3.6\Phase1Section3.6\obj\Debug\Phase1Section3.6.pdb
