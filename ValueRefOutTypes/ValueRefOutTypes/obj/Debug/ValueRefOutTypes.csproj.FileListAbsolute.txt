@@ -1,0 +1,7 @@
+F:\.NetProject\ValueRefOutTypes\ValueRefOutTypes\bin\Debug\ValueRefOutTypes.exe.config
+F:\.NetProject\ValueRefOutTypes\ValueRefOutTypes\bin\Debug\ValueRefOutTypes.exe
+F:\.NetProject\ValueRefOutTypes\ValueRefOutTypes\bin\Debug\ValueRefOutTypes.pdb
+F:\.NetProject\ValueRefOutTypes\ValueRefOutTypes\obj\Debug\ValueRefOutTypes.csproj.AssemblyReference.cache
+F:\.NetProject\ValueRefOutTypes\ValueRefOutTypes\obj\Debug\ValueRefOutTypes.csproj.CoreCompileInputs.cache
+F:\.NetProject\ValueRefOutTypes\ValueRefOutTypes\obj\Debug\ValueRefOutTypes.exe
+F:\.NetProject\ValueRefOutTypes\ValueRefOutTypes\obj\Debug\ValueRefOutTypes.pdb

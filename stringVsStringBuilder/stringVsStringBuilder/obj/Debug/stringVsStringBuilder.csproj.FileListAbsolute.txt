@@ -1,0 +1,7 @@
+F:\.NetProject\stringVsStringBuilder\stringVsStringBuilder\bin\Debug\stringVsStringBuilder.exe.config
+F:\.NetProject\stringVsStringBuilder\stringVsStringBuilder\bin\Debug\stringVsStringBuilder.exe
+F:\.NetProject\stringVsStringBuilder\stringVsStringBuilder\bin\Debug\stringVsStringBuilder.pdb
+F:\.NetProject\stringVsStringBuilder\stringVsStringBuilder\obj\Debug\stringVsStringBuilder.csproj.AssemblyReference.cache
+F:\.NetProject\stringVsStringBuilder\stringVsStringBuilder\obj\Debug\stringVsStringBuilder.csproj.CoreCompileInputs.cache
+F:\.NetProject\stringVsStringBuilder\stringVsStringBuilder\obj\Debug\stringVsStringBuilder.exe
+F:\.NetProject\stringVsStringBuilder\stringVsStringBuilder\obj\Debug\stringVsStringBuilder.pdb

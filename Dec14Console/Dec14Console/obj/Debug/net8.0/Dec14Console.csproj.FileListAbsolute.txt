@@ -1,0 +1,14 @@
+F:\.NetProject\Dec14Console\Dec14Console\bin\Debug\net8.0\Dec14Console.exe
+F:\.NetProject\Dec14Console\Dec14Console\bin\Debug\net8.0\Dec14Console.deps.json
+F:\.NetProject\Dec14Console\Dec14Console\bin\Debug\net8.0\Dec14Console.runtimeconfig.json
+F:\.NetProject\Dec14Console\Dec14Console\bin\Debug\net8.0\Dec14Console.dll
+F:\.NetProject\Dec14Console\Dec14Console\bin\Debug\net8.0\Dec14Console.pdb
+F:\.NetProject\Dec14Console\Dec14Console\obj\Debug\net8.0\Dec14Console.GeneratedMSBuildEditorConfig.editorconfig
+F:\.NetProject\Dec14Console\Dec14Console\obj\Debug\net8.0\Dec14Console.AssemblyInfoInputs.cache
+F:\.NetProject\Dec14Console\Dec14Console\obj\Debug\net8.0\Dec14Console.AssemblyInfo.cs
+F:\.NetProject\Dec14Console\Dec14Console\obj\Debug\net8.0\Dec14Console.csproj.CoreCompileInputs.cache
+F:\.NetProject\Dec14Console\Dec14Console\obj\Debug\net8.0\Dec14Console.dll
+F:\.NetProject\Dec14Console\Dec14Console\obj\Debug\net8.0\refint\Dec14Console.dll
+F:\.NetProject\Dec14Console\Dec14Console\obj\Debug\net8.0\Dec14Console.pdb
+F:\.NetProject\Dec14Console\Dec14Console\obj\Debug\net8.0\Dec14Console.genruntimeconfig.cache
+F:\.NetProject\Dec14Console\Dec14Console\obj\Debug\net8.0\ref\Dec14Console.dll

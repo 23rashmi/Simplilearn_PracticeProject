@@ -1,0 +1,7 @@
+F:\.NetProject\Dec14Console.DefaultAndNamed\Dec14Console.DefaultAndNamed\bin\Debug\Dec14Console.DefaultAndNamed.exe.config
+F:\.NetProject\Dec14Console.DefaultAndNamed\Dec14Console.DefaultAndNamed\bin\Debug\Dec14Console.DefaultAndNamed.exe
+F:\.NetProject\Dec14Console.DefaultAndNamed\Dec14Console.DefaultAndNamed\bin\Debug\Dec14Console.DefaultAndNamed.pdb
+F:\.NetProject\Dec14Console.DefaultAndNamed\Dec14Console.DefaultAndNamed\obj\Debug\Dec14Console.DefaultAndNamed.csproj.AssemblyReference.cache
+F:\.NetProject\Dec14Console.DefaultAndNamed\Dec14Console.DefaultAndNamed\obj\Debug\Dec14Console.DefaultAndNamed.csproj.CoreCompileInputs.cache
+F:\.NetProject\Dec14Console.DefaultAndNamed\Dec14Console.DefaultAndNamed\obj\Debug\Dec14Console.DefaultAndNamed.exe
+F:\.NetProject\Dec14Console.DefaultAndNamed\Dec14Console.DefaultAndNamed\obj\Debug\Dec14Console.DefaultAndNamed.pdb

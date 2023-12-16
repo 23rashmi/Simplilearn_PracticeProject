@@ -1,0 +1,2 @@
+F:\.NetProject\PlayerandTeamRequirements\PlayerandTeamRequirements\obj\Debug\PlayerandTeamRequirements.csproj.AssemblyReference.cache
+F:\.NetProject\PlayerandTeamRequirements\PlayerandTeamRequirements\obj\Debug\PlayerandTeamRequirements.csproj.CoreCompileInputs.cache

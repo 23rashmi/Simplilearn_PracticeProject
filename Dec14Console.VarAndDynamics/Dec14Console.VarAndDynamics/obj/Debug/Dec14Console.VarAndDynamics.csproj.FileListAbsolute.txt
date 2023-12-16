@@ -1,0 +1,7 @@
+F:\.NetProject\Dec14Console.VarAndDynamics\Dec14Console.VarAndDynamics\bin\Debug\Dec14Console.VarAndDynamics.exe.config
+F:\.NetProject\Dec14Console.VarAndDynamics\Dec14Console.VarAndDynamics\bin\Debug\Dec14Console.VarAndDynamics.exe
+F:\.NetProject\Dec14Console.VarAndDynamics\Dec14Console.VarAndDynamics\bin\Debug\Dec14Console.VarAndDynamics.pdb
+F:\.NetProject\Dec14Console.VarAndDynamics\Dec14Console.VarAndDynamics\obj\Debug\Dec14Console.VarAndDynamics.csproj.AssemblyReference.cache
+F:\.NetProject\Dec14Console.VarAndDynamics\Dec14Console.VarAndDynamics\obj\Debug\Dec14Console.VarAndDynamics.csproj.CoreCompileInputs.cache
+F:\.NetProject\Dec14Console.VarAndDynamics\Dec14Console.VarAndDynamics\obj\Debug\Dec14Console.VarAndDynamics.exe
+F:\.NetProject\Dec14Console.VarAndDynamics\Dec14Console.VarAndDynamics\obj\Debug\Dec14Console.VarAndDynamics.pdb
