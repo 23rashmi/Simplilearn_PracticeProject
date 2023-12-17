@@ -1,19 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-
 namespace Phase1Section3._4
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
-            doApp();
+            DoApp();
         }
-
-        static public void doApp()
+        static public void DoApp()
         {
 
             bool xbool = true;
@@ -32,14 +27,32 @@ namespace Phase1Section3._4
             ushort xushort = 19;
             string xstring = "name";
 
-            if (xbool == true && xbyte < 300)
+           if (xbool == true && xbyte < 250)
                 Console.WriteLine("This expression evaluates to true");
             if (xshort > 6 || xint > -9000)
                 Console.WriteLine("This expression evaluates to false");
 
 
-            //Display results.
 
+
+            //Display results
+            Console.WriteLine($"bool: {xbool}");
+            Console.WriteLine($"byte: {xbyte}");
+            Console.WriteLine($"sbyte: {xsbyte}");
+            Console.WriteLine($"char: {xchar}");
+            Console.WriteLine($"decimal: {xdecimal}");
+            Console.WriteLine($"double: {xdouble}");
+            Console.WriteLine($"float: {xfloat}");
+            Console.WriteLine($"int: {xint}");
+            Console.WriteLine($"uint: {xuint}");
+            Console.WriteLine($"long: {xlong}");
+            Console.WriteLine($"ulong: {xulong}");
+            Console.WriteLine($"object: {xobject}");
+            Console.WriteLine($"short: {xshort}");
+            Console.WriteLine($"ushort: {xushort}");
+            Console.WriteLine($"string: {xstring}");
+            Console.WriteLine($"byte: {xbyte}");
+           // Console.WriteLine("");
 
 
 
@@ -48,4 +61,3 @@ namespace Phase1Section3._4
 
     }
 }
-
